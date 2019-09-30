@@ -12,6 +12,7 @@ public class Test1 {
         Connection connection = null;
         PreparedStatement preparedStatement = null;
         ResultSet resultSet = null;
+        System.out.println("uouu");
 
         try {
             //1.加载jdbc驱动com.mysql.jdbc.driver
